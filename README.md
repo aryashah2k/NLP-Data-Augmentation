@@ -19,3 +19,12 @@ The five techniques included in this repository are:
 # Collective Comparison Of The 5 Approaches
 
 --TO DO--
+
+------------------------------------------------
+Completion Log:
+
+[x] Word Embeddings
+[-] BERT
+[-] Back Translation
+[-] Text To text Transformer
+[-] Ensemble Approach 
