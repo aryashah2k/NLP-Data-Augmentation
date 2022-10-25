@@ -13,3 +13,9 @@ The five techniques included in this repository are:
 |3.|Back Translation|<a href="https://github.com/aryashah2k/NLP-Data-Augmentation/tree/main/Back%20Translation">Click Here</a>|
 |4.|Text To Text Transformer|<a href="https://github.com/aryashah2k/NLP-Data-Augmentation/tree/main/Text%20To%20Text%20Transformer">Click Here</a>|
 |5.|Ensemble Approach|<a href="https://github.com/aryashah2k/NLP-Data-Augmentation/tree/main/Ensemble%20Approach">Click Here</a>|
+
+------------------------------------------------
+
+# Collective Comparison Of The 5 Approaches
+
+--TO DO--
