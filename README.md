@@ -24,7 +24,11 @@ The five techniques included in this repository are:
 Completion Log:
 
 [x] Word Embeddings
+
 [-] BERT
+
 [-] Back Translation
+
 [-] Text To text Transformer
+
 [-] Ensemble Approach 
